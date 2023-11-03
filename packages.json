@@ -22,5 +22,9 @@
     {
         "package": "DEploid",
         "url": "https://github.com/DEploid-dev/DEploid-r"
+    },
+    {
+        "package": "McCOILR",
+        "url": "https://github.com/OJWatson/McCOILR"
     }
 ]
