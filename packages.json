@@ -14,5 +14,9 @@
     {
         "package": "paneljudge",
         "url": "https://github.com/aimeertaylor/paneljudge"
+    },
+    {
+        "package": "isoRelate",
+        "url": "https://github.com/bahlolab/isoRelate"
     }
 ]
