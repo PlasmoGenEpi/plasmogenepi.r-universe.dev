@@ -18,5 +18,9 @@
     {
         "package": "isoRelate",
         "url": "https://github.com/bahlolab/isoRelate"
+    },
+    {
+        "package": "DEploid",
+        "url": "https://github.com/DEploid-dev/DEploid-r"
     }
 ]
