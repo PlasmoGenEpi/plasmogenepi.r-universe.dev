@@ -26,5 +26,9 @@
     {
         "package": "McCOILR",
         "url": "https://github.com/OJWatson/McCOILR"
+    },
+    {
+        "package": "coiaf",
+        "url": "https://github.com/bailey-lab/coiaf"
     }
 ]
