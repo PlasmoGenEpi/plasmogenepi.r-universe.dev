@@ -1,0 +1,14 @@
+[
+    {
+        "package": "moire",
+        "url": "https://github.com/eppicenter/moire"
+    },
+    {
+        "package": "dcifer",
+        "url": "https://github.com/eppicenter/dcifer"
+    },
+    {
+        "package": "malecot",
+        "url": "https://github.com/bobverity/MALECOT"
+    }
+]
