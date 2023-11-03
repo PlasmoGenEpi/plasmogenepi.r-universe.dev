@@ -10,5 +10,9 @@
     {
         "package": "MALECOT",
         "url": "https://github.com/bobverity/MALECOT"
+    },
+    {
+        "package": "paneljudge",
+        "url": "https://github.com/aimeertaylor/paneljudge"
     }
 ]
