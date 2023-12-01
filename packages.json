@@ -30,5 +30,61 @@
     {
         "package": "coiaf",
         "url": "https://github.com/bailey-lab/coiaf"
+    },
+    {
+        "package": "FreqEstimationModel",
+        "url": "https://github.com/aimeertaylor/FreqEstimationModel"
+    },
+    {
+        "package": "isoRelate",
+        "url": "https://github.com/bahlolab/isoRelate"
+    },
+    {
+        "package": "SIMPLEGEN",
+        "url": "https://github.com/mrc-ide/SIMPLEGEN"
+    },
+    {
+        "package": "magenta",
+        "url": "https://github.com/OJWatson/magenta"
+    },
+    {
+        "package": "DRpower",
+        "url": "https://github.com/mrc-ide/DRpower"
+    },
+    {
+        "package": "pixelate",
+        "url": "https://github.com/aimeertaylor/pixelate"
+    },
+    {
+        "package": "moimix",
+        "url": "https://github.com/bahlolab/moimix"
+    },
+    {
+        "package": "hrp2malaRia",
+        "url": "https://github.com/OJWatson/hrp2malaRia"
+    },
+    {
+        "package": "hmmibdr",
+        "url": "https://github.com/OJWatson/hmmibdr"
+    },
+    {
+        "package": "MIPanalyzer",
+        "url": "https://github.com/mrc-ide/MIPanalyzer"
+    },
+    {
+        "package": "PlasmoSim",
+        "url": "https://github.com/mrc-ide/PlasmoSim"
+    },
+    {
+        "package": "polySimIBD",
+        "url": "https://github.com/nickbrazeau/polySimIBD"
+    },
+    {
+        "package": "discent",
+        "url": "https://github.com/nickbrazeau/discent"
+    },
+    {
+        "package": "Pv3Rs",
+        "url": "https://github.com/aimeertaylor/Pv3Rs"
     }
 ]
