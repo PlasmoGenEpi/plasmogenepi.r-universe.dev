@@ -90,5 +90,9 @@
     {
 	"package": "PGEhammer",
 	"url": "https://github.com/mrc-ide/PGEhammer"
-    }	
+    },
+    {
+	"package": "moimix",
+	"url": "https://github.com/bahlolab/moimix"
+    }
 ]
