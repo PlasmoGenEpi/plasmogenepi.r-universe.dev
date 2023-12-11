@@ -86,5 +86,9 @@
     {
         "package": "Pv3Rs",
         "url": "https://github.com/aimeertaylor/Pv3Rs"
-    }
+    },
+    {
+	"package": "PGEhammer",
+	"url": "https://github.com/mrc-ide/PGEhammer"
+    }	
 ]
