@@ -94,5 +94,9 @@
     {
 	"package": "moimix",
 	"url": "https://github.com/bahlolab/moimix"
+    },
+    {
+	"package": "hierfstat",
+	"url": "https://github.com/jgx65/hierfstat"
     }
 ]
