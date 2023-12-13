@@ -98,5 +98,9 @@
     {
 	"package": "hierfstat",
 	"url": "https://github.com/jgx65/hierfstat"
+    },
+    {
+	"package": "pixelate.fork",
+	"url": "https://github.com/bobverity/pixelate"
     }
 ]
