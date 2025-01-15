@@ -102,5 +102,9 @@
     {
 	"package": "pixelate.fork",
 	"url": "https://github.com/bobverity/pixelate"
+    },
+    {
+        "package": "variantstring",
+        "url": "https://github.com/mrc-ide/variantstring"
     }
 ]
