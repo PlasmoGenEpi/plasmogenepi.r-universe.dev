@@ -106,5 +106,9 @@
     {
         "package": "variantstring",
         "url": "https://github.com/mrc-ide/variantstring"
+    },
+    {
+        "package": "FreqEstimationModel",
+        "url": "https://github.com/aimeertaylor/FreqEstimationModel"
     }
 ]
