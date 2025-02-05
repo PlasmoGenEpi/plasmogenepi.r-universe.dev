@@ -111,6 +111,7 @@
         "package": "FreqEstimationModel",
         "url": "https://github.com/aimeertaylor/FreqEstimationModel"
     },
+    {
         "package": "malaria.em",
         "url": "https://github.com/PlasmoGenEpi/malaria.em"
     }
