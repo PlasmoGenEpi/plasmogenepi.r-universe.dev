@@ -88,20 +88,20 @@
         "url": "https://github.com/aimeertaylor/Pv3Rs"
     },
     {
-	"package": "PGEhammer",
-	"url": "https://github.com/mrc-ide/PGEhammer"
+	      "package": "PGEhammer",
+        "url": "https://github.com/mrc-ide/PGEhammer"
     },
     {
-	"package": "moimix",
-	"url": "https://github.com/bahlolab/moimix"
+        "package": "moimix",
+        "url": "https://github.com/bahlolab/moimix"
     },
     {
-	"package": "hierfstat",
-	"url": "https://github.com/jgx65/hierfstat"
+        "package": "hierfstat",
+        "url": "https://github.com/jgx65/hierfstat"
     },
     {
-	"package": "pixelate.fork",
-	"url": "https://github.com/bobverity/pixelate"
+        "package": "pixelate.fork",
+        "url": "https://github.com/bobverity/pixelate"
     },
     {
         "package": "variantstring",
@@ -114,5 +114,9 @@
     {
         "package": "malaria.em",
         "url": "https://github.com/PlasmoGenEpi/malaria.em"
+    },
+    {
+        "package": "snp.slicer",
+        "url": "https://github.com/PlasmoGenEpi/snp.slicer"
     }
 ]
